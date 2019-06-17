@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FBFindme</string>
+    <string name="facebook_app_id">2233764533405721</string>
+    <string name="fb_login_protocol_scheme">fb2233764533405721</string>
+    <string name="get_my_location">Get my location</string>
+    <string name="place_me">Place me</string>
+    <string name="get_my_friends_location">Get My Friends Location</string>
+    <string name="friends_location">Friends_Location</string>
+    <string name="my_location">My_Location</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
